@@ -1,4 +1,4 @@
 <?php 
-$variable = "salar";
+$variable = "ali";
 echo $variable;
 
